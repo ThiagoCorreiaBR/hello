@@ -20,3 +20,7 @@ Route::get('/', function () { //rota inicial
 route::get('/login', function(){ //rota nova
     return view('login');
 });
+
+route::get('/act', function(){
+    return view('act');
+});
