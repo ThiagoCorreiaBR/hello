@@ -7,6 +7,7 @@
     <title>Meu doc PHP</title>
 </head>
 <body>
-    <h1>Hello world</h1>
+    <h1>Olá mundo</h1>
+    <h2>Seja bem-vindo</h2>
 </body>
 </html>
